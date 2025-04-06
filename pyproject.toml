@@ -1,0 +1,23 @@
+[project]
+name = "pixarfilms"
+version = "0.1.0"
+description = "A Python package for importing and analyzing Pixar films datasets."
+readme = "README.md"
+authors = [
+  { name = "abljoel", email = "82639814+joelabl@users.noreply.github.com" }
+]
+license = { text = "MIT" }
+keywords = ["pixar", "films", "datasets", "data analysis"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+requires-python = ">=3.11"
+
+[project.urls]
+Homepage = "https://github.com/joelabl/pixar-films-analysis"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
