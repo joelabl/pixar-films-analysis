@@ -4,11 +4,7 @@ version = "0.1.0"
 description = "A Python package for importing and analyzing Pixar films datasets."
 readme = "README.md"
 authors = [
-<<<<<<< HEAD
   { name = "joelabl", email = "82639814+joelabl@users.noreply.github.com" }
-=======
-  { name = "abljoel", email = "82639814+joelabl@users.noreply.github.com" }
->>>>>>> cd4b23b9201c4b46fe47113c38606d641d44d850
 ]
 license = { text = "MIT" }
 keywords = ["pixar", "films", "datasets", "data analysis"]
